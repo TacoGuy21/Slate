@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+      body {
+          font-family: 'Montserrat', sans-serif;
+      }
+  </style>
     <title>
       Paint
       </title>
@@ -14,7 +20,7 @@
    <style>
         @media screen and (min-width: 768px) {
             body {
-                zoom: 175%;
+                zoom: 125%;
             }
         }
      </style>
@@ -27,14 +33,14 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background-color: #62c99e;
-      font-family: Arial, sans-serif;
+      background-color: #464646;
+      font-family: 'Montserrat', sans-serif;
     }
 
     .container {
       max-width: 400px;
       padding: 20px;
-      background-color: #fff;
+      background-color: #f4f4f4;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
@@ -64,8 +70,8 @@
     .form-group input[type="submit"] {
       width: 100%;
       padding: 10px;
-      background-color: #7cd5d1;
-      color: #000000;
+      background-color: #303030;
+      color: #ffffff;
       border: none;
       border-radius: 3px;
       cursor: pointer;
@@ -74,22 +80,21 @@
     button {
       width: 100%;
       padding: 10px;
-      background-color: #7cd5d1;
-      color: #000000;
+      background-color: #282828;
+      color: #ffffff;
       border: none;
       border-radius: 3px;
       cursor: pointer;
     }
 
     .form-group input[type="submit"]:hover {
-      background-color: #88f4eb;
+      background-color: #3f3f3f;
     }
   </style>
 </head>
-
 <body>
   <div class="container">
-    <h1 class="title">Paint V1</h1>
+    <h1 class="title">Slate V1</h1>
     <form method="POST" action="/service/gateway">
       <div class="form-group">
         <label for="url">URL</label>
