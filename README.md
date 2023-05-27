@@ -1,6 +1,7 @@
 # ***𝓟𝓪𝓲𝓷𝓽𝓟𝓻𝓸𝔁𝔂***
 
-![image](https://github.com/Tacogamerman/Paint-Proxy-V1/assets/119009502/870f5987-faf7-48ae-a3ba-f152dd8b9a56)
+![image](https://github.com/Tacogamerman/Paint-Proxy-V1/assets/119009502/f16e8b08-87ad-4f10-8182-c976870f906e)
+
 
 
 # 𝕎𝕙𝕒𝕥 𝕚𝕤 ℙ𝕒𝕚𝕟𝕥ℙ𝕣𝕠𝕩𝕪?
