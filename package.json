@@ -1,0 +1,23 @@
+{
+  "name": "Rhodium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/main/bundle.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css": "^3.0.0",
+    "css-tree": "^2.0.4",
+    "jsdom": "^19.0.0",
+    "webpack": "^5.65.0",
+    "ws": "^8.4.0"
+  }
+}

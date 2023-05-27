@@ -1,0 +1,66 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "25303e58-40e9-4e83-85e5-3e872042b6f6",
+        "line": 1,
+        "version": 1141,
+        "index": 0
+      }
+    ],
+    "lib/header.js": [
+      {
+        "id": "14d5f6fc-f6a4-4af1-ade2-081afe4c9cf6",
+        "line": 5,
+        "version": 1455,
+        "index": 150
+      }
+    ],
+    "lib/inject/index.js": [
+      {
+        "id": "f980c79f-d92d-45d6-9149-a99e5d6cdddc",
+        "line": 98,
+        "version": 2329,
+        "index": 6148
+      }
+    ],
+    "lib/main/index.js": [
+      {
+        "id": "fb95480d-7080-4792-a798-0e41c93ee956",
+        "line": 1,
+        "version": 26969,
+        "index": 0
+      },
+      {
+        "id": "9205d1e7-f6d1-4ee1-82cc-5bed42181a0d",
+        "line": 898,
+        "version": 26969,
+        "index": 32554
+      }
+    ],
+    "lib/rewrite/js.js": [
+      {
+        "id": "95bcd358-6d16-4fa6-a4a8-4f9b1e474a7d",
+        "line": 27,
+        "version": 2432,
+        "index": 1611
+      }
+    ],
+    "lib/rewrites/cookie.js": [
+      {
+        "id": "534b3850-57b6-448b-85ec-0b599976108f",
+        "line": 5,
+        "version": 1,
+        "index": 51
+      }
+    ],
+    "lib/window/bundle.js": [
+      {
+        "id": "b05b859e-e57e-4bdc-a58a-59147e4d9059",
+        "line": 1,
+        "version": 9148,
+        "index": 0
+      }
+    ]
+  }
+}
