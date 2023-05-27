@@ -9,3 +9,7 @@ While I cannot reveal my motives for creating PaintProxy at the moment, just kno
 
 # 𝓞𝓾𝓻 𝓓𝓲𝓼𝓬𝓸𝓻𝓭
 
+https://discord.gg/BMxe6D9CKv
+
+
+![Discord](http://invidget.switchblade.xyz/BMxe6D9CKv)
