@@ -11,9 +11,9 @@ Slate is an Unblocker made by Tacogamerman
 
 # ℂ𝕣𝕖𝕕𝕚𝕥 
 
-Made with rhodium because im a lazy fuck
+* Made with rhodium because im a lazy fuck
 <br>
-Also because it is supposed to be similar to cosmic.
+* Also because it is supposed to be similar to cosmic.
 
 # 𝕊𝕙𝕠𝕨𝕔𝕒𝕤𝕖:
 ------
