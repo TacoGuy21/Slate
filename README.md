@@ -17,5 +17,5 @@ Slate is an Unblocker made by Tacogamerman
 
 # 𝕊𝕙𝕠𝕨𝕔𝕒𝕤𝕖:
 ------
-<img width="947" alt="image" src="https://github.com/Tacogamerman/Slate-Unblocker/assets/119009502/15b51991-5d45-4c4e-956e-6f566cb8338f" style="border: 4px solid green;">
+<img width="1047" alt="image" src="https://github.com/Tacogamerman/Slate-Unblocker/assets/119009502/15b51991-5d45-4c4e-956e-6f566cb8338f" style="border: 4px solid green;">
 
