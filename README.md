@@ -9,3 +9,5 @@ While I cannot reveal my motives for creating Slate at the moment, just know it 
 ![Discord](http://invidget.switchblade.xyz/BMxe6D9CKv)
 
 Made with rhodium because im a lazy fuck
+<br>
+Also because it is supposed to be similar to cosmic.
