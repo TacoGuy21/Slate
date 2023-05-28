@@ -16,6 +16,6 @@ Made with rhodium because im a lazy fuck
 Also because it is supposed to be similar to cosmic.
 
 # 𝕊𝕙𝕠𝕨𝕔𝕒𝕤𝕖:
-<br>
+------------------------------------------------------------------------------------
 <img width="747" alt="image" src="https://github.com/Tacogamerman/Slate-Unblocker/assets/119009502/15b51991-5d45-4c4e-956e-6f566cb8338f" style="border: 4px solid green;">
 
