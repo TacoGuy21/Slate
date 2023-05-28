@@ -1,7 +1,7 @@
 # 𝕊𝕝𝕒𝕥𝕖 𝕌𝕟𝕓𝕝𝕠𝕔𝕜𝕖𝕣
 The 6th Unblocker in the greatsword series.
 # 𝕎𝕙𝕒𝕥 𝕚𝕤 𝕊𝕝𝕒𝕥𝕖 𝕌𝕟𝕓𝕝𝕠𝕔𝕜𝕖𝕣?
-Slate is an Unblocker made by Tacogamerman
+Slate is an Unblocker made by Tacogamerman using Rhodium.
 # 𝕆𝕦𝕣 𝕕𝕚𝕤𝕔𝕠𝕣𝕕
 
 (https://discord.gg/BMxe6D9CKv)
