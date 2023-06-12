@@ -2,6 +2,23 @@
 <html>
   <head>
     <style>
+      html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    .centered-element {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    </style>
+    
+    <style>
       @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
       body {
           font-family: 'Montserrat', sans-serif;
@@ -33,7 +50,6 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background-color: #464646;
       font-family: 'Montserrat', sans-serif;
     }
 
@@ -113,20 +129,41 @@
     }
     </script>
     <button onclick="blank();">About:blank cloak</button>
-        <style>
-  html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
+   
+   <style>
+      html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    .centered-element {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    </style>
 
-.centered-element {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-</style>
-
+    <style>
+      body {
+        background: linear-gradient(90deg, #000000, #313030, #000000);
+        background-size: 300% 300%;
+        animation: gradientAnimation 10s ease infinite;
+      }
+    
+      @keyframes gradientAnimation {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+    </style>
+    
