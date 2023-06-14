@@ -20,5 +20,6 @@ Slate is an Unblocker made by Tacogamerman using Rhodium.
 # 𝕊𝕙𝕠𝕨𝕔𝕒𝕤𝕖:
 ------
 ***The background is animated***
+
 <img width="960" alt="image" src="https://github.com/Tacogamerman/Slate-Unblocker/assets/119009502/19b4fc51-d4da-42c8-a778-e2be9b9b3ff3">
 
