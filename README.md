@@ -6,9 +6,6 @@ Slate is an Unblocker made by Tacogamerman using Rhodium.
 
 (https://discord.gg/BMxe6D9CKv)
 
-
-![Discord](http://invidget.switchblade.xyz/BMxe6D9CKv)
-
 # ℂ𝕣𝕖𝕕𝕚𝕥 
 
 * Made with rhodium because im a lazy boi
