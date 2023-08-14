@@ -1,6 +1,8 @@
 # 𝕊𝕝𝕒𝕥𝕖 𝕌𝕟𝕓𝕝𝕠𝕔𝕜𝕖𝕣
 The 6th Unblocker in the greatsword series.
 
+Showcase at the bottom of this README
+
 Deploy with csb or (possibly) Aws console
 # 𝕎𝕙𝕒𝕥 𝕚𝕤 𝕊𝕝𝕒𝕥𝕖 𝕌𝕟𝕓𝕝𝕠𝕔𝕜𝕖𝕣?
 Slate is an Unblocker made by JustTacoJohn using Rhodium.
