@@ -8,7 +8,7 @@ Deploy with csb or (possibly) Aws console
 Slate is an Unblocker made by JustTacoJohn using Rhodium.
 # 𝕆𝕦𝕣 𝕕𝕚𝕤𝕔𝕠𝕣𝕕
 
-(https://discord.gg/BMxe6D9CKv)
+https://discord.gg/BMxe6D9CKv
 
 # ℂ𝕣𝕖𝕕𝕚𝕥 
 
