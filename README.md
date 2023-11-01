@@ -24,5 +24,5 @@ https://discord.gg/BMxe6D9CKv
 ------
 ***The background is animated***
 
-<img width="960" alt="image" src="https://github.com/JustTacoJohn/Slate/assets/119009502/54966447-f578-49d4-b7a1-318b282af2a4">
+<img width="960" alt="image" src="https://github.com/Tacogamerman/Slate/assets/119009502/aca0d619-90a6-4d8d-a676-3d289afb585f">
 
