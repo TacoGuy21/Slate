@@ -5,12 +5,12 @@ Showcase at the bottom of this README
 
 Deploy with csb or (possibly) Aws console
 
-Idk man
+[The Subreddit](https://www.reddit.com/r/swordstuff/)
+
+[Discord Server](https://discord.gg/BMxe6D9CKv)
+
 # 𝕎𝕙𝕒𝕥 𝕚𝕤 𝕊𝕝𝕒𝕥𝕖 𝕌𝕟𝕓𝕝𝕠𝕔𝕜𝕖𝕣?
 Slate is an Unblocker made by JustTacoJohn using Rhodium.
-# 𝕆𝕦𝕣 𝕕𝕚𝕤𝕔𝕠𝕣𝕕
-
-https://discord.gg/BMxe6D9CKv
 
 # ℂ𝕣𝕖𝕕𝕚𝕥 
 
